@@ -1,0 +1,17 @@
+# Node modules
+/node_modules/
+
+# Package lock
+/package-lock.json
+
+# Package.json (usually tracked, remove if you have specific reason)
+/package.json
+
+# Test results
+/playwright-report/
+/test-results/
+/blob-report/
+/playwright/.cache/
+/test-examples/
+# Allure results
+/allure-result/
