@@ -4,8 +4,6 @@
 # Package lock
 /package-lock.json
 
-# Package.json (usually tracked, remove if you have specific reason)
-/package.json
 
 # Test results
 /playwright-report/
