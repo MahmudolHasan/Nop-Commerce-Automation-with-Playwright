@@ -13,3 +13,5 @@
 /test-examples/
 # Allure results
 /allure-result/
+node_modules/
+test-examples/
